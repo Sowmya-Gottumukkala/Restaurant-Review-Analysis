@@ -25,6 +25,11 @@ This project aims to provide sentiment analysis for restaurant reviews using Nat
 - Pandas
 - NumPy
 
+  ![image](https://github.com/Sowmya-Gottumukkala/Restaurant-Review-Analysis/assets/127223176/b4ab7c1a-174e-4fc6-8627-da5c4054d708)
+  
+  ![image1](https://github.com/Sowmya-Gottumukkala/Restaurant-Review-Analysis/assets/127223176/db9f7ee5-bf6f-4998-adf0-416d471161cd)
+
+
 ## Contribution
 Contributions are welcome! Feel free to fork the repository, make pull requests, or open issues for any bugs or feature requests.
 
